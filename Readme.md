@@ -25,7 +25,7 @@ Minor checks
 - [OK] battery level
 - [NO] temperature
 - [OK] encrypted backups
-- [NO] input devices via USB (USB-OTG) - keyboard, mouse and disks (not supported by the device)
+- [OK] input devices via USB (USB-OTG) - keyboard, mouse and disks
 - [OK] USB mass storage export
 - [OK] set brightness
 - [NO] vibrate
